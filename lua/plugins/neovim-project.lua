@@ -24,7 +24,7 @@ return {
     lazy = false,
     priority = 100,
     keys = {
-        { "<leader>pd", "<cmd>NeovimProjectDicover<cr>", desc = "ProjectDicover" },
+        { "<leader>pd", "<cmd>NeovimProjectDiscover<cr>", desc = "ProjectDiscover" },
         { "<leader>ph", "<cmd>NeovimProjectHistory<cr>", desc = "ProjectHistory" },
     },
 }
