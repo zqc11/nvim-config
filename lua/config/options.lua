@@ -3,3 +3,4 @@
 -- Add any additional options here
 local opt = vim.opt
 opt.guifont = "UbuntuMono Nerd Font:h12"
+opt.scrolloff = 999
