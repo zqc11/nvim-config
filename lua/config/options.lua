@@ -6,3 +6,5 @@ opt.guifont = "UbuntuMono Nerd Font:h12"
 opt.scrolloff = 999
 -- 自动换行
 opt.wrap = true
+-- 关闭拼音检查
+vim.opt.spell = false
