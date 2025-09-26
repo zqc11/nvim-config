@@ -7,7 +7,7 @@ return {
             "~/AppData/Local/nvim",
         },
         picker = {
-            type = "telescope", -- one of "telescope", "fzf-lua", or "snacks"
+            type = "fzf-lua", -- one of "telescope", "fzf-lua", or "snacks"
         },
     },
     init = function()
